@@ -1,0 +1,9 @@
+{
+	"name": "kaboom-env",
+	"dependencies": {
+		"esbuild": "^0.13.2",
+		"express": "^4.17.1",
+		"kaboom": "2000.0.0-beta.22",
+		"ws": "^8.2.0"
+	}
+}
